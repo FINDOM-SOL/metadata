@@ -5,9 +5,13 @@
     "image": "https://raw.githubusercontent.com/FINDOM-SOL/crypto/refs/heads/main/logoFFFFF%20(1).png",
     "external_url": "https://findom-sol.com/",
     "attributes": [
-      {
-        "trait_type": "Project",
-        "value": "Findom SOL"
-      }
+        {
+            "trait_type": "Project",
+            "value": "Findom SOL"
+        },
+        {
+            "trait_type": "Social Media",
+            "value": "https://x.com/FINDOM_SOL"
+        }
     ]
-  }
+}

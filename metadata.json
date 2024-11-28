@@ -3,15 +3,5 @@
     "symbol": "FINDOM",
     "description": "Findom Token is a Solana token that facilitates services and products within a secure, decentralized network for the dominatrix community.",
     "image": "https://raw.githubusercontent.com/FINDOM-SOL/crypto/refs/heads/main/logoFFFFF%20(1).png",
-    "external_url": "https://findom-sol.com/",
-    "attributes": [
-        {
-            "trait_type": "Project",
-            "value": "Findom SOL"
-        },
-        {
-            "trait_type": "Social Media -X",
-            "value": "https://x.com/FINDOM_SOL"
-        }
-    ]
+    "external_url": "https://findom-sol.com/"
 }
